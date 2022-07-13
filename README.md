@@ -40,7 +40,9 @@ There are several charts:
   - A histogram that displays the salary associated with each player
   - Whisker boxes to position the players in relation to the globality of our of our data set
 
-![image](https://user-images.githubusercontent.com/105392989/174280275-1b5ca6b7-c38f-4cc1-9b45-9d5105a88311.png)
+<div id="1st page" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174280275-1b5ca6b7-c38f-4cc1-9b45-9d5105a88311.png" width="950">
+</div>
   
   #### **2. Comparison between teams**
   
@@ -49,24 +51,30 @@ For this we take the statistics of the players attached to the same team and we 
 comparison. Of course this average thing is totally debatable but we didn't think of another category.
 
 Our graph is a bubble chart that will position the teams in a space according to **two characteristics**. In parallel to the two characteristics, we give the user the possibility to **filter the teams** and all the teams that do not belong to the conditions of these filters will not be considered for the display.
-  
-![image](https://user-images.githubusercontent.com/105392989/174280709-ab1cd432-2d62-4e72-bb4d-fdad8b48d9fc.png)
+
+<div id="2nd page" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174280709-ab1cd432-2d62-4e72-bb4d-fdad8b48d9fc.png" width="950">
+</div>
 
   #### **3. Data description**
   
 This page does not offer many features.  
 It simply allows the user to **get acquainted with the language and lexicon** used in the NBA world to define and categorize sports performances during different seasons.  
 In reality, it is a simple **glossary**.
-  
-![image](https://user-images.githubusercontent.com/105392989/174280808-ab3076cd-40ef-48ef-92e0-2a67a559ce67.png)
+
+<div id="3rd page" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174280808-ab3076cd-40ef-48ef-92e0-2a67a559ce67.png" width="950">
+</div>
 
   #### **4. Introduction to the developers**
   
 This last tab represents a **contact page**.   
 Indeed, it allows us to present ourselves with a photo and an email address to _enter in contact if necessary_. Also, the **Linked profile** has been made available through a simple click.  
 We also propose a OneDrive link to group all the elements that constitute this project (potentially closed since) 
-  
-![image](https://user-images.githubusercontent.com/105392989/174280863-c963fc69-ca22-4670-90d7-ecbfa5d9b6a8.png)
+
+<div id="4th page" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174280863-c963fc69-ca22-4670-90d7-ecbfa5d9b6a8.png" width="950">
+</div>
 
 ## **4. Ways to improve our project**
 
@@ -83,17 +91,19 @@ We are well aware that this project can be much more **driven and complete**. He
 
   - **Improve the graphical interface** by offering a more pleasant visual and more complete functionality
 
-![image](https://user-images.githubusercontent.com/105392989/174302175-d3fb50b4-f64f-465b-b512-34f326abfc6d.png)
+<div id="amelioration 1" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174302175-d3fb50b4-f64f-465b-b512-34f326abfc6d.png" width="950">
 
-Source : _https://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/_
+  <img src="https://user-images.githubusercontent.com/105392989/174302220-1ab97572-be72-4651-a958-ff30352a6211.png" width="950">
+  
+  Source : https://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/
+</div>
 
-![image](https://user-images.githubusercontent.com/105392989/174302220-1ab97572-be72-4651-a958-ff30352a6211.png)
-
-Source : _https://toddwschneider.com/posts/ballr-interactive-nba-shot-charts-with-r-and-shiny/_
-
-![image](https://user-images.githubusercontent.com/105392989/174302293-7ed3f208-06c5-4866-ab0d-39f7c8132124.png)
-
-Source : _https://github.com/toddwschneider/ballr_
+<div id="amelioration 2" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/174302293-7ed3f208-06c5-4866-ab0d-39f7c8132124.png" width="950">
+  
+  Source : https://github.com/toddwschneider/ballr
+</div>
 
 Men lie but not numbers. The interpretation remains subjective.   
 **So who do you think is better between Lebron and Curry?** 
